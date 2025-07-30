@@ -5,6 +5,9 @@ This program is created for fivem carpacks and .yft, .ytd files! The programm is
 How to work this program?
 -------------------------
 
+!The program main langluage is Hungarian!
+        - The US / UK version release soon...
+
 The first step the programm is taken a working folders loc and the copy alt.folder locations
 The second step the program analyzing file contains in the working folders (.meta files):         
         'handling.meta',
